@@ -21,4 +21,4 @@ I am a Postdoctoral Research Fellow in Prof. Michael Snyder’s lab at Stanford 
 3. tidymicrobiome project [tidymicrobiome.org](http://www.tidymicrobiome.org/)
 4. tidywearable project [tidywearable.github.io](https://tidywearable.github.io/)
 
-[](https://github.com/jaspershen-lab/.github/blob/main/shen_lab_logo8.png)
+![](https://github.com/jaspershen-lab/.github/blob/main/shen_lab_logo8.png)
