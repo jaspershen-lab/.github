@@ -1,4 +1,4 @@
-![](https://github.com/jaspershen-lab/.github/blob/main/shen_lab_logo8.png)
+![](https://github.com/jaspershen-lab/.github/blob/main/shen_lab_logo11.png)
 
 ---
 
