@@ -12,7 +12,8 @@ Our research is focused on the development of computational methods for the anal
 - 🏠 Lab Website [jaspershen.github.io](https://jaspershen.github.io/)
 - 🏠 Personal Website [jaspershen.github.io](https://jaspershen.github.io/)
 - 💬 WeChat [shenxt1990](https://jaspershen.github.io/image/wechat_QR.jpg)
-- LinkedIn Icon Small Circle LinkedIn [shenxt](https://www.linkedin.com/in/shenxt/)
+- ![image](https://github.com/user-attachments/assets/c93033dd-7fad-4800-96a2-aaa0ef5a7dd4)
+ [shenxt](https://www.linkedin.com/in/shenxt/)
 - 🐦 Twitter [xiaotaoshen1990](https://twitter.com/xiaotaoshen1990)
 
 ## 💻 Project
