@@ -17,8 +17,8 @@ Our research is focused on the development of computational methods for the anal
 
 ## 💻 Project
 
-1. tidymass project [tidymass.org](https://www.tidymass.org/)
-2. deepPsedoMSI project [deeppseudomsi.org](https://www.deeppseudomsi.org/)
-3. tidymicrobiome project [tidymicrobiome.org](http://www.tidymicrobiome.org/)
-4. tidywearable project [tidywearable.github.io](https://tidywearable.github.io/)
+- tidymass project [tidymass.org](https://www.tidymass.org/)
+- deepPsedoMSI project [deeppseudomsi.org](https://www.deeppseudomsi.org/)
+- tidymicrobiome project [tidymicrobiome.org](http://www.tidymicrobiome.org/)
+- tidywearable project [tidywearable.github.io](https://tidywearable.github.io/)
 
