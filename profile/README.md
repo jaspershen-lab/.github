@@ -11,7 +11,7 @@ Our research is focused on the development of computational methods for the anal
 - 📩 Email [xiaotao.shen@outlook.com](xiaotao.shen@outlook.com)
 - 🏠 Lab Website [shen-lab.org](https://www.shen-lab.org/)
 - 🏠 Personal Website [jaspershen.github.io](https://jaspershen.github.io/)
-- 💬 WeChat [shenxt1990](https://jaspershen.github.io/image/wechat_QR.jpg)
+- 💬 WeChat [jaspershen1990](https://jaspershen.github.io/image/wechat_QR.jpg)
 - 📺 LinkedIn [shenxt](https://www.linkedin.com/in/shenxt/)
 - 🐤 Twitter [xiaotaoshen1990](https://twitter.com/xiaotaoshen1990)
 
